@@ -148,7 +148,8 @@ PRODUCT_PACKAGES += \
     LockClock \
     OpenDelta \
     CMAccount \
-    CMHome
+    CMHome \
+	CyanogenSetupWizard
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
